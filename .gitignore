@@ -1,0 +1,11 @@
+datasets/*.csv
+datasets/*.jpg
+*.pyc
+__pycache__/
+.ipynb_checkpoints/
+results/models/*.h5
+results/models/*.pth
+.venv/
+.env/
+env/
+venv/

@@ -1,0 +1,9 @@
+typeguard
+pillow
+numpy
+scikit-image
+matplotlib
+jupyter
+pytest
+nbstripout
+torch
